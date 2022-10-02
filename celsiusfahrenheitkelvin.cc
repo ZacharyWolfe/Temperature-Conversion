@@ -55,8 +55,8 @@ double conversion(double c, double f, double k)
 
     cout << "\nThe correct conversions are: \nCelsius-to-Fahrenheit: " << fixed << setprecision(1) << c << endl;
     cout << "Fahrenheit-to-Celsius: " << fixed << setprecision(1) << f << endl;
-    cout << "Kevlin-to-celsius: " << fixed << setprecision(1) << kc << endl;
-    cout << "Kevlin-to-fahrenheit: " << fixed << setprecision(1) << kf << endl;
+    cout << "Kelvin-to-celsius: " << fixed << setprecision(1) << kc << endl;
+    cout << "Kelvin-to-fahrenheit: " << fixed << setprecision(1) << kf << endl;
 
     return 0;
 }
